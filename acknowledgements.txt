@@ -1,0 +1,3 @@
+Implementing Iterative Policy Evaluation: https://github.com/bu-cds-omds/dx704-examples/blob/main/week06/video_implementing_iterative_policy_evaluation.ipynb
+Implementing Policy Iteration: https://github.com/bu-cds-omds/dx704-examples/blob/main/week06/video_implementing_policy_iteration.ipynb
+Implementing Value Iteration: https://github.com/bu-cds-omds/dx704-examples/blob/main/week06/video_implementing_value_iteration.ipynb
