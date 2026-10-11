@@ -1,0 +1,8 @@
+state	action
+exposed-1	sleep-8
+exposed-2	sleep-8
+exposed-3	sleep-8
+symptoms-1	drink-oj
+symptoms-2	drink-oj
+symptoms-3	drink-oj
+recovered	do-nothing
